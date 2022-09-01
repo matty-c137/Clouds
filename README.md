@@ -1,10 +1,13 @@
 # Clouds
---- Home: UI Look. it is very simple and relaxing
-![Home](https://github.com/matty-c137/Clouds/blob/main/UX-UI/Home.png)
-there are more all UI Design in the ( [UX-UI](https://github.com/matty-c137/Clouds/tree/main/UX-UI) ) folder
-
-
 Clouds is A weather Application. which shows temp of desired location with the excpetation of weather for upcoming days.
+
+## Introduction to the UI Design 
+<img src="https://github.com/matty-c137/Clouds/tree/main/UX-UI" alt="Home" style="zoom:60%; margin-left:0" /> 
+
+i have tried to to give it a fresh and relaxing Design. a simple that le you understand what you want and want to get easily
+
+[ you can learn all about the UX-UI [Here](https://github.com/matty-c137/Clouds/tree/main/UX-UI) ]
+
 
 there are two files. one is the UX/UI Design Files. that contain the pictures and a Figma Files. to be able to edit it on your own.
 Feel Free to use it as anyuse just respect the ownership of which designed the UI and the code. by mentioning my github Username( Github: matty-c137 } or just the link.
