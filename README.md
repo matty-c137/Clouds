@@ -11,6 +11,6 @@ enjoy.
 
 ::: Files Structure 
 
-1- UX/UI : which contain the UI Desing of the Weather Application Project
-2- React : The Project in a web-Application using React { not available now }
-3- Vanial: which contain the project for website using vanila code with no library for mobile application { not available now }
+1. UX/UI : which contain the UI Desing of the Weather Application Project
+2. React : The Project in a web-Application using React { not available now }
+3. Vanial: which contain the project for website using vanila code with no library for mobile application { not available now }
